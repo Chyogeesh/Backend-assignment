@@ -1,0 +1,29 @@
+worko-backend/
+│
+├── controllers/
+│   └── userController.js
+│
+├── services/
+│   └── userService.js
+│
+├── dao/
+│   └── userDao.js
+│
+├── models/
+│   └── userModel.js
+│
+├── dto/
+│   └── userDto.js
+│
+├── validators/
+│   └── userValidator.js
+│
+├── tests/
+│   └── user.test.js
+│
+├── .env
+├── app.js
+├── routes.js
+├── package.json
+├── README.md
+└── webpack.config.js
